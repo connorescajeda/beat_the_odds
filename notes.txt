@@ -1,0 +1,8 @@
+Open bets page xpath
+//*[@id="KambiBC-core-ux-landing-page"]/div[3]/div/div/section/section/section/ul/li[1]/div/a/div/div
+
+//*[@id="KambiBC-core-ux-landing-page"]/div[3]/div/div/section/section/section/ul/li[1]/div/a/div/div
+
+Bet results
+<div class="KambiBC-outcomes-list KambiBC-outcomes-list--layout-grouped-betoffers-with-headers KambiBC-outcomes-list--columns-2">
+<div class="KambiBC-bet-offer-subcategory__container"><div class="KambiBC-bet-offer-subcategory__header"><div class="KambiBC-bet-offer-subcategory__label-wrapper"><h3 class="KambiBC-bet-offer-subcategory__label">
